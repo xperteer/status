@@ -4,19 +4,19 @@
     "url": "https://paylink.xperteer.com/health/live",
     "icon": "https://icons.duckduckgo.com/ip3/paylink.xperteer.com.ico",
     "slug": "pay-signal",
-    "status": "down",
-    "uptime": "76.68%",
-    "uptimeDay": "76.68%",
-    "uptimeWeek": "76.68%",
-    "uptimeMonth": "76.68%",
-    "uptimeYear": "76.68%",
-    "time": 342,
-    "timeDay": 342,
-    "timeWeek": 342,
-    "timeMonth": 342,
-    "timeYear": 342,
+    "status": "up",
+    "uptime": "71.31%",
+    "uptimeDay": "71.31%",
+    "uptimeWeek": "71.31%",
+    "uptimeMonth": "71.31%",
+    "uptimeYear": "71.31%",
+    "time": 389,
+    "timeDay": 389,
+    "timeWeek": 389,
+    "timeMonth": 389,
+    "timeYear": 389,
     "dailyMinutesDown": {
-      "2026-04-12": 51
+      "2026-04-12": 67
     }
   }
 ]
