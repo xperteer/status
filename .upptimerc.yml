@@ -1,25 +1,25 @@
 owner: xperteer
 repo: status
+
 sites:
-    - name: paySignal
-      url: https://paylink.xperteer.com/health/live
-      method: GET
-      expectedStatusCodes:
-        - 200
+  - name: paySignal
+    url: https://paylink.xperteer.com/health/live
+    expectedStatusCodes:
+      - 200
 
 status-website:
-    cname: status.paysignal.de
-    baseUrl: /
-    name: paySignal Status
-    theme: dark
+  cname: status.paysignal.de
+  baseUrl: /
+  name: paySignal Status
+  theme: dark
 
 i18n:
-    activeIncidents: Aktive Störungen
-    noActiveIncidents: Alle Systeme laufen normal
-    pastIncidents: Vergangene Störungen
-    pastIncidentsResolved: Gelöst
-    liveStatus: Live-Status →
-    allSystemsOperational: Alle Systeme laufen
-    notAllSystemsOperational: Nicht alle Systeme laufen
-    uptimePercentage: Verfügbarkeit
-    responseTime: Antwortzeit
+  activeIncidents: Aktive Störungen
+  noActiveIncidents: Alle Systeme laufen normal
+  pastIncidents: Vergangene Störungen
+  pastIncidentsResolved: Gelöst
+  liveStatus: Live-Status →
+  allSystemsOperational: Alle Systeme laufen
+  notAllSystemsOperational: Nicht alle Systeme laufen
+  uptimePercentage: Verfügbarkeit
+  responseTime: Antwortzeit
