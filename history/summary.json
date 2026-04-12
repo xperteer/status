@@ -5,16 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/paylink.xperteer.com.ico",
     "slug": "pay-signal",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "86.06%",
+    "uptimeDay": "86.06%",
+    "uptimeWeek": "86.06%",
+    "uptimeMonth": "86.06%",
+    "uptimeYear": "86.06%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-12": 0
+    }
   }
 ]
