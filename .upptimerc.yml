@@ -13,7 +13,7 @@ owner: xperteer
     baseUrl: /
     name: paySignal Status
     theme: dark
-
+    
   i18n:
     activeIncidents: Aktive Störungen
     noActiveIncidents: Alle Systeme laufen normal
