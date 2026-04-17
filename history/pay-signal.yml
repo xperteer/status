@@ -1,7 +1,7 @@
 url: https://paylink.xperteer.com/health/live
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-04-17T20:24:13.657Z
+status: up
+code: 200
+responseTime: 396
+lastUpdated: 2026-04-17T20:42:19.176Z
 startTime: 2026-04-12T17:56:52.287Z
 generator: Upptime <https://github.com/upptime/upptime>
