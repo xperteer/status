@@ -3,7 +3,7 @@ repo: status
 
 sites:
   - name: paySignal
-    url: https://paylink.xperteer.com/health/live
+    url: https://paysignal.de/health/live
     expectedStatusCodes:
       - 200
 
