@@ -5,17 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/paysignal.de.ico",
     "slug": "pay-signal",
     "status": "down",
-    "uptime": "70.11%",
+    "uptime": "70.12%",
     "uptimeDay": "44.21%",
     "uptimeWeek": "6.32%",
-    "uptimeMonth": "48.97%",
-    "uptimeYear": "70.11%",
+    "uptimeMonth": "48.90%",
+    "uptimeYear": "70.12%",
     "time": 498,
     "timeDay": 546,
     "timeWeek": 546,
     "timeMonth": 520,
     "timeYear": 498,
     "dailyMinutesDown": {
+      "2026-06-09": 31,
       "2026-06-08": 807,
       "2026-06-07": 1440,
       "2026-06-06": 1440,
@@ -63,7 +64,7 @@
       "2026-04-18": 337,
       "2026-04-17": 85,
       "2026-04-16": 48,
-      "2026-04-15": 50
+      "2026-04-15": 22
     }
   }
 ]
