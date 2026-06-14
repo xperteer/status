@@ -4,19 +4,19 @@
     "url": "https://paysignal.de/health/live",
     "icon": "https://icons.duckduckgo.com/ip3/paysignal.de.ico",
     "slug": "pay-signal",
-    "status": "down",
+    "status": "up",
     "uptime": "71.10%",
-    "uptimeDay": "76.28%",
+    "uptimeDay": "73.96%",
     "uptimeWeek": "61.06%",
-    "uptimeMonth": "44.43%",
+    "uptimeMonth": "44.32%",
     "uptimeYear": "71.10%",
-    "time": 505,
-    "timeDay": 547,
-    "timeWeek": 537,
-    "timeMonth": 517,
-    "timeYear": 505,
+    "time": 506,
+    "timeDay": 556,
+    "timeWeek": 539,
+    "timeMonth": 519,
+    "timeYear": 506,
     "dailyMinutesDown": {
-      "2026-06-14": 159,
+      "2026-06-14": 207,
       "2026-06-13": 432,
       "2026-06-12": 677,
       "2026-06-11": 620,
@@ -62,8 +62,7 @@
       "2026-04-25": 51,
       "2026-04-24": 94,
       "2026-04-23": 106,
-      "2026-04-22": 73,
-      "2026-04-21": 32
+      "2026-04-22": 73
     }
   }
 ]
